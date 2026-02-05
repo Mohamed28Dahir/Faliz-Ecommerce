@@ -7,9 +7,7 @@
 
 **Faliz-Ecommerce** is a sleek, modern eCommerce web application built with PHP and MySQL. It features a minimalist aesthetic, responsive design, and a full-featured administrative dashboard for managing sales, orders, and products.
 
----
-
-## 🚀 Features
+##  Features
 
 ### Customer Experience
 - **Elegant Shop Interface**: Browse products with high-quality imagery and clean typography.
@@ -24,9 +22,7 @@
 - **Product Management**: Complete CRUD functionality for adding, editing, and removing products.
 - **User Management**: Oversee customer accounts and administrative roles.
 
----
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Backend**: PHP (Procedural)
 - **Database**: MySQL
@@ -36,9 +32,7 @@
   - FontAwesome 6 icons
 - **Visuals**: Chart.js for data visualization
 
----
-
-## 📦 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - PHP server (XAMPP, WAMP, Laragon, etc.)
@@ -67,28 +61,23 @@
    - Move the project folder to your local server directory (e.g., `C:/xampp/htdocs/Faliz-Ecommerce`).
    - Access the project via `http://localhost/Faliz-Ecommerce/index.php`.
 
----
-
-## 🛡️ Admin Access
+##  Admin Access
 
 - To access the admin panel, navigate to `/admin`.
 - **Default Admin Credentials**: Refer to the `users` table in the database for admin accounts.
 
----
-
-## 👥 Authors
+##  Authors
 
 This project was developed through a collaborative partnership between **Mohamed Dahir** and **Faliz Mohamed**. Together, we combined our technical skills and design vision to create a modern, high-performance eCommerce solution that balances aesthetics with robust functionality.
 
 Working side-by-side, we managed every aspect of the build, from the initial database architecture to the final touches of the user interface. Our combined efforts ensured that both the customer experience and the administrative tools were built to a premium standard, reflecting our shared commitment to clean code and exceptional user experience.
 
----
-
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License.
+
 
