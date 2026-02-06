@@ -25,9 +25,9 @@
 ### Modern Development Workflow
 This project represents a "human-led, AI-accelerated" approach to software engineering. The architecture and core features were conceptualized by Mohamed Dahir, who used a suite of advanced tools to ensure professional execution:
 
-*   🌐 **UI/UX Design**: The project's visual language and interface were designed using **[Google Stitch](https://stitch.withgoogle.com/)**, ensuring a clean, modern, and high-performance user experience.
-*   🤖 **AI-Driven Analysis**: AI was utilized strategically throughout the build—not to generate the project blindly, but as a high-level consultant. It was used to analyze system requirements, brainstorm complex features, and provide deep insights into the project's logic.
-*   🛠️ **Intelligent Debugging**: **Antigravity** and other AI tools were employed to fix technical errors, optimize code blocks, and maintain high security standards (such as PDO integration).
+*    **UI/UX Design**: The project's visual language and interface were designed using **[Google Stitch](https://stitch.withgoogle.com/)**, ensuring a clean, modern, and high-performance user experience.
+*    **AI-Driven Analysis**: AI was utilized strategically throughout the build—not to generate the project blindly, but as a high-level consultant. It was used to analyze system requirements, brainstorm complex features, and provide deep insights into the project's logic.
+*    **Intelligent Debugging**: **Antigravity** and other AI tools were employed to fix technical errors, optimize code blocks, and maintain high security standards (such as PDO integration).
 ## Tech Stack
 
 - **Backend**: PHP (Procedural)
@@ -118,6 +118,7 @@ Contributions, issues, and feature requests are welcome!
 ## License
 
 This project is licensed under the MIT License.
+
 
 
 
